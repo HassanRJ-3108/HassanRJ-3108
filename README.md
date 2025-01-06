@@ -36,8 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/hassanrj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hassanrj" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan3108huzaifa&show_icons=true&locale=en&layout=compact" alt="hassan3108huzaifa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanrj-3108&show_icons=true&locale=en&layout=compact" alt="hassanrj-3108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan3108huzaifa&show_icons=true&locale=en" alt="hassan3108huzaifa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanrj-3108&show_icons=true&locale=en" alt="hassanrj-3108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan3108huzaifa&" alt="hassan3108huzaifa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrj-3108&" alt="hassanrj-3108" /></p>
