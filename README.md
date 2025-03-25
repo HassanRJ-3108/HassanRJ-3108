@@ -1,10 +1,9 @@
 <div align="center">
-  ![logo](https://github.com/Hassan3108huzaifa/Hassan3108huzaifa/blob/main/banner.gif)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hassan+RJ;Full+Stack+Developer;AI+Enthusiast;Student+Innovator" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+
+![logo](https://github.com/Hassan3108huzaifa/Hassan3108huzaifa/blob/main/banner.gif)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassanrj-3108&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
