@@ -1,64 +1,91 @@
-# 👋 Hello, I'm Hassan RJ
-
-## 💻 Full Stack Developer | Student Innovator
-
-I'm an 11th grade Computer Science student passionate about building innovative web applications and exploring the frontiers of Agentic AI.
-
-![Profile Views](https://komarev.com/ghpvc/?username=hassanrj-3108&color=brightgreen)
-
-## 🚀 Tech Stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Sanity CMS](https://img.shields.io/badge/-Sanity%20CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-
-## 🔭 Featured Projects
-
-### [Free Resume Builder](https://freeresumebuilder-h.vercel.app/)
-A web application that helps users create professional resumes with ease.
-
-### [Reasonable AI](https://reasonable-ai.streamlit.app/)
-An AI-powered platform built with Streamlit that demonstrates practical applications of artificial intelligence.
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanrj-3108&show_icons=true&theme=radical" alt="Hassan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrj-3108&theme=radical" alt="Hassan's GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hassan+RJ;Full+Stack+Developer;AI+Enthusiast;Student+Innovator" alt="Typing SVG" />
 </div>
 
-## 🌱 Current Focus
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
 
-- Exploring Agentic AI and its applications
-- Advancing my Full Stack development skills
-- Creating innovative solutions to real-world problems
-- Contributing to open-source projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassanrj-3108&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/hassanrj-3108?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/hassanrj-3108?label=Stars" alt="Total Stars">
+</p>
 
-## 📫 Connect With Me
+## 💫 About Me
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-hassanrj.vercel.app-blue?style=for-the-badge&logo=vercel)](https://hassanrj.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassanrj-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hassanrj)
-[![Twitter](https://img.shields.io/badge/Twitter-hassanrj3108-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hassanrj3108)
-[![Instagram](https://img.shields.io/badge/Instagram-hassanrj3108-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hassanrj3108)
-[![GitHub](https://img.shields.io/badge/GitHub-hassanrj--3108-181717?style=for-the-badge&logo=github)](https://github.com/hassanrj-3108)
-[![Email](https://img.shields.io/badge/Email-huzaifa3108hassan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifa3108hassan@gmail.com)
+- 🎓 11th grade Computer Science student with a passion for coding
+- 🔭 Currently working on **Agentic AI applications**
+- 🌱 Learning advanced **Next.js** and **AI integration**
+- 👨‍💻 All of my projects are available at [hassanrj.vercel.app](https://hassanrj.vercel.app)
+- 💬 Ask me about **React, Next.js, TypeScript, and AI**
+- ⚡ Fun fact: **I started coding when I was 13!**
 
-</div>
+## 🛠️ My Tech Arsenal
 
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+## 🧠 AI Integration
 
-<div align="center">
-  
-  **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGDUzFYjB7W9Wko/giphy.gif" width="400" alt="AI Animation">
+</p>
 
-</div>
+```python
+class HassanRJ:
+    def __init__(self):
+        self.name = "Hassan RJ"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["en_US", "ur_PK"]
+        self.interests = ["Agentic AI", "Web Development", "Innovation"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = HassanRJ()
+me.say_hi()```
